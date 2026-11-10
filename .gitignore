@@ -1,0 +1,4 @@
+.streamlit/secrets.toml
+data/*.db
+__pycache__/
+*.py[cod]

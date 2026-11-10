@@ -1,0 +1,9 @@
+carrier_id,carrier_name,service_type,base_cost_usd,cost_per_mile_usd
+CAR-01,Apex Ground Logistics,Ground,53.31,0.115
+CAR-02,Continental Parcel,Ground,19.52,0.131
+CAR-03,RapidAir Freight,Air,39.15,0.063
+CAR-04,BlueLine Transport,Ground,40.39,0.093
+CAR-05,National Express Cargo,Air,53.44,0.088
+CAR-06,Pioneer LTL,LTL,48.01,0.125
+CAR-07,Summit Freight,LTL,54.35,0.053
+CAR-08,Coastal Courier,Ground,41.91,0.049
