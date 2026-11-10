@@ -1,0 +1,601 @@
+route_id,origin_warehouse_id,destination_city,destination_state,distance_miles,route_zone
+RT-0001,WH-01,Las Vegas,NV,1063,National
+RT-0002,WH-01,Sacramento,CA,762,Regional
+RT-0003,WH-01,Boise,ID,494,Regional
+RT-0004,WH-01,Salt Lake City,UT,854,National
+RT-0005,WH-01,Albuquerque,NM,1443,National
+RT-0006,WH-01,Oklahoma City,OK,1858,National
+RT-0007,WH-01,Kansas City,MO,1833,National
+RT-0008,WH-01,Omaha,NE,1667,National
+RT-0009,WH-01,Milwaukee,WI,2059,National
+RT-0010,WH-01,Indianapolis,IN,2279,National
+RT-0011,WH-01,Louisville,KY,2365,National
+RT-0012,WH-01,New Orleans,LA,2561,National
+RT-0013,WH-01,Tampa,FL,3082,National
+RT-0014,WH-01,Orlando,FL,3107,National
+RT-0015,WH-01,Jacksonville,FL,2991,National
+RT-0016,WH-01,Charleston,SC,2956,National
+RT-0017,WH-01,Richmond,VA,2869,National
+RT-0018,WH-01,Pittsburgh,PA,2602,National
+RT-0019,WH-01,Cleveland,OH,2465,National
+RT-0020,WH-01,Buffalo,NY,2575,National
+RT-0021,WH-01,Hartford,CT,2965,National
+RT-0022,WH-01,Providence,RI,3033,National
+RT-0023,WH-01,Burlington,VT,2838,National
+RT-0024,WH-01,Manchester,NH,2987,National
+RT-0025,WH-01,Spokane,WA,279,Regional
+RT-0026,WH-01,Reno,NV,698,Regional
+RT-0027,WH-01,Tucson,AZ,1487,National
+RT-0028,WH-01,El Paso,TX,1678,National
+RT-0029,WH-01,San Antonio,TX,2179,National
+RT-0030,WH-01,Birmingham,AL,2536,National
+RT-0031,WH-02,Las Vegas,NV,922,National
+RT-0032,WH-02,Sacramento,CA,589,Regional
+RT-0033,WH-02,Boise,ID,420,Regional
+RT-0034,WH-02,Salt Lake City,UT,774,Regional
+RT-0035,WH-02,Albuquerque,NM,1350,National
+RT-0036,WH-02,Oklahoma City,OK,1811,National
+RT-0037,WH-02,Kansas City,MO,1823,National
+RT-0038,WH-02,Omaha,NE,1669,National
+RT-0039,WH-02,Milwaukee,WI,2092,National
+RT-0040,WH-02,Indianapolis,IN,2295,National
+RT-0041,WH-02,Louisville,KY,2374,National
+RT-0042,WH-02,New Orleans,LA,2513,National
+RT-0043,WH-02,Tampa,FL,3051,National
+RT-0044,WH-02,Orlando,FL,3081,National
+RT-0045,WH-02,Jacksonville,FL,2972,National
+RT-0046,WH-02,Charleston,SC,2953,National
+RT-0047,WH-02,Richmond,VA,2893,National
+RT-0048,WH-02,Pittsburgh,PA,2635,National
+RT-0049,WH-02,Cleveland,OH,2501,National
+RT-0050,WH-02,Buffalo,NY,2623,National
+RT-0051,WH-02,Hartford,CT,3017,National
+RT-0052,WH-02,Providence,RI,3088,National
+RT-0053,WH-02,Burlington,VT,2903,National
+RT-0054,WH-02,Manchester,NH,3047,National
+RT-0055,WH-02,Spokane,WA,354,Regional
+RT-0056,WH-02,Reno,NV,535,Regional
+RT-0057,WH-02,Tucson,AZ,1355,National
+RT-0058,WH-02,El Paso,TX,1569,National
+RT-0059,WH-02,San Antonio,TX,2097,National
+RT-0060,WH-02,Birmingham,AL,2516,National
+RT-0061,WH-03,Las Vegas,NV,508,Regional
+RT-0062,WH-03,Sacramento,CA,92,Local
+RT-0063,WH-03,Boise,ID,632,Regional
+RT-0064,WH-03,Salt Lake City,UT,731,Regional
+RT-0065,WH-03,Albuquerque,NM,1092,National
+RT-0066,WH-03,Oklahoma City,OK,1691,National
+RT-0067,WH-03,Kansas City,MO,1834,National
+RT-0068,WH-03,Omaha,NE,1740,National
+RT-0069,WH-03,Milwaukee,WI,2243,National
+RT-0070,WH-03,Indianapolis,IN,2373,National
+RT-0071,WH-03,Louisville,KY,2419,National
+RT-0072,WH-03,New Orleans,LA,2345,National
+RT-0073,WH-03,Tampa,FL,2924,National
+RT-0074,WH-03,Orlando,FL,2974,National
+RT-0075,WH-03,Jacksonville,FL,2892,National
+RT-0076,WH-03,Charleston,SC,2929,National
+RT-0077,WH-03,Richmond,VA,2972,National
+RT-0078,WH-03,Pittsburgh,PA,2757,National
+RT-0079,WH-03,Cleveland,OH,2638,National
+RT-0080,WH-03,Buffalo,NY,2799,National
+RT-0081,WH-03,Hartford,CT,3196,National
+RT-0082,WH-03,Providence,RI,3272,National
+RT-0083,WH-03,Burlington,VT,3127,National
+RT-0084,WH-03,Manchester,NH,3251,National
+RT-0085,WH-03,Spokane,WA,888,National
+RT-0086,WH-03,Reno,NV,226,Local
+RT-0087,WH-03,Tucson,AZ,917,National
+RT-0088,WH-03,El Paso,TX,1212,National
+RT-0089,WH-03,San Antonio,TX,1815,National
+RT-0090,WH-03,Birmingham,AL,2451,National
+RT-0091,WH-04,Las Vegas,NV,279,Regional
+RT-0092,WH-04,Sacramento,CA,441,Regional
+RT-0093,WH-04,Boise,ID,817,National
+RT-0094,WH-04,Salt Lake City,UT,707,Regional
+RT-0095,WH-04,Albuquerque,NM,809,National
+RT-0096,WH-04,Oklahoma City,OK,1438,National
+RT-0097,WH-04,Kansas City,MO,1652,National
+RT-0098,WH-04,Omaha,NE,1602,National
+RT-0099,WH-04,Milwaukee,WI,2124,National
+RT-0100,WH-04,Indianapolis,IN,2203,National
+RT-0101,WH-04,Louisville,KY,2228,National
+RT-0102,WH-04,New Orleans,LA,2037,National
+RT-0103,WH-04,Tampa,FL,2623,National
+RT-0104,WH-04,Orlando,FL,2681,National
+RT-0105,WH-04,Jacksonville,FL,2615,National
+RT-0106,WH-04,Charleston,SC,2682,National
+RT-0107,WH-04,Richmond,VA,2784,National
+RT-0108,WH-04,Pittsburgh,PA,2601,National
+RT-0109,WH-04,Cleveland,OH,2495,National
+RT-0110,WH-04,Buffalo,NY,2676,National
+RT-0111,WH-04,Hartford,CT,3063,National
+RT-0112,WH-04,Providence,RI,3142,National
+RT-0113,WH-04,Burlington,VT,3026,National
+RT-0114,WH-04,Manchester,NH,3134,National
+RT-0115,WH-04,Spokane,WA,1148,National
+RT-0116,WH-04,Reno,NV,474,Regional
+RT-0117,WH-04,Tucson,AZ,536,Regional
+RT-0118,WH-04,El Paso,TX,854,National
+RT-0119,WH-04,San Antonio,TX,1466,National
+RT-0120,WH-04,Birmingham,AL,2194,National
+RT-0121,WH-05,Las Vegas,NV,323,Regional
+RT-0122,WH-05,Sacramento,CA,577,Regional
+RT-0123,WH-05,Boise,ID,921,National
+RT-0124,WH-05,Salt Lake City,UT,766,Regional
+RT-0125,WH-05,Albuquerque,NM,762,Regional
+RT-0126,WH-05,Oklahoma City,OK,1388,National
+RT-0127,WH-05,Kansas City,MO,1628,National
+RT-0128,WH-05,Omaha,NE,1594,National
+RT-0129,WH-05,Milwaukee,WI,2118,National
+RT-0130,WH-05,Indianapolis,IN,2178,National
+RT-0131,WH-05,Louisville,KY,2194,National
+RT-0132,WH-05,New Orleans,LA,1959,National
+RT-0133,WH-05,Tampa,FL,2545,National
+RT-0134,WH-05,Orlando,FL,2607,National
+RT-0135,WH-05,Jacksonville,FL,2547,National
+RT-0136,WH-05,Charleston,SC,2626,National
+RT-0137,WH-05,Richmond,VA,2748,National
+RT-0138,WH-05,Pittsburgh,PA,2578,National
+RT-0139,WH-05,Cleveland,OH,2477,National
+RT-0140,WH-05,Buffalo,NY,2664,National
+RT-0141,WH-05,Hartford,CT,3045,National
+RT-0142,WH-05,Providence,RI,3125,National
+RT-0143,WH-05,Burlington,VT,3019,National
+RT-0144,WH-05,Manchester,NH,3122,National
+RT-0145,WH-05,Spokane,WA,1260,National
+RT-0146,WH-05,Reno,NV,602,Regional
+RT-0147,WH-05,Tucson,AZ,442,Regional
+RT-0148,WH-05,El Paso,TX,765,Regional
+RT-0149,WH-05,San Antonio,TX,1374,National
+RT-0150,WH-05,Birmingham,AL,2136,National
+RT-0151,WH-06,Las Vegas,NV,312,Regional
+RT-0152,WH-06,Sacramento,CA,774,Regional
+RT-0153,WH-06,Boise,ID,899,National
+RT-0154,WH-06,Salt Lake City,UT,617,Regional
+RT-0155,WH-06,Albuquerque,NM,402,Regional
+RT-0156,WH-06,Oklahoma City,OK,1025,National
+RT-0157,WH-06,Kansas City,MO,1278,National
+RT-0158,WH-06,Omaha,NE,1263,National
+RT-0159,WH-06,Milwaukee,WI,1784,National
+RT-0160,WH-06,Indianapolis,IN,1825,National
+RT-0161,WH-06,Louisville,KY,1836,National
+RT-0162,WH-06,New Orleans,LA,1602,National
+RT-0163,WH-06,Tampa,FL,2188,National
+RT-0164,WH-06,Orlando,FL,2248,National
+RT-0165,WH-06,Jacksonville,FL,2185,National
+RT-0166,WH-06,Charleston,SC,2261,National
+RT-0167,WH-06,Richmond,VA,2388,National
+RT-0168,WH-06,Pittsburgh,PA,2226,National
+RT-0169,WH-06,Cleveland,OH,2130,National
+RT-0170,WH-06,Buffalo,NY,2321,National
+RT-0171,WH-06,Hartford,CT,2698,National
+RT-0172,WH-06,Providence,RI,2777,National
+RT-0173,WH-06,Burlington,VT,2682,National
+RT-0174,WH-06,Manchester,NH,2778,National
+RT-0175,WH-06,Spokane,WA,1245,National
+RT-0176,WH-06,Reno,NV,733,Regional
+RT-0177,WH-06,Tucson,AZ,129,Local
+RT-0178,WH-06,El Paso,TX,421,Regional
+RT-0179,WH-06,San Antonio,TX,1033,National
+RT-0180,WH-06,Birmingham,AL,1772,National
+RT-0181,WH-07,Las Vegas,NV,738,Regional
+RT-0182,WH-07,Sacramento,CA,1082,National
+RT-0183,WH-07,Boise,ID,777,Regional
+RT-0184,WH-07,Salt Lake City,UT,452,Regional
+RT-0185,WH-07,Albuquerque,NM,408,Regional
+RT-0186,WH-07,Oklahoma City,OK,615,Regional
+RT-0187,WH-07,Kansas City,MO,680,Regional
+RT-0188,WH-07,Omaha,NE,594,Regional
+RT-0189,WH-07,Milwaukee,WI,1113,National
+RT-0190,WH-07,Indianapolis,IN,1218,National
+RT-0191,WH-07,Louisville,KY,1264,National
+RT-0192,WH-07,New Orleans,LA,1318,National
+RT-0193,WH-07,Tampa,FL,1856,National
+RT-0194,WH-07,Orlando,FL,1890,National
+RT-0195,WH-07,Jacksonville,FL,1788,National
+RT-0196,WH-07,Charleston,SC,1794,National
+RT-0197,WH-07,Richmond,VA,1816,National
+RT-0198,WH-07,Pittsburgh,PA,1608,National
+RT-0199,WH-07,Cleveland,OH,1493,National
+RT-0200,WH-07,Buffalo,NY,1668,National
+RT-0201,WH-07,Hartford,CT,2059,National
+RT-0202,WH-07,Providence,RI,2137,National
+RT-0203,WH-07,Burlington,VT,2014,National
+RT-0204,WH-07,Manchester,NH,2125,National
+RT-0205,WH-07,Spokane,WA,1008,National
+RT-0206,WH-07,Reno,NV,961,National
+RT-0207,WH-07,Tucson,AZ,753,Regional
+RT-0208,WH-07,El Paso,TX,680,Regional
+RT-0209,WH-07,San Antonio,TX,979,National
+RT-0210,WH-07,Birmingham,AL,1334,National
+RT-0211,WH-08,Las Vegas,NV,1304,National
+RT-0212,WH-08,Sacramento,CA,1754,National
+RT-0213,WH-08,Boise,ID,1571,National
+RT-0214,WH-08,Salt Lake City,UT,1219,National
+RT-0215,WH-08,Albuquerque,NM,716,Regional
+RT-0216,WH-08,Oklahoma City,OK,232,Local
+RT-0217,WH-08,Kansas City,MO,554,Regional
+RT-0218,WH-08,Omaha,NE,717,Regional
+RT-0219,WH-08,Milwaukee,WI,1046,National
+RT-0220,WH-08,Indianapolis,IN,932,National
+RT-0221,WH-08,Louisville,KY,886,National
+RT-0222,WH-08,New Orleans,LA,539,Regional
+RT-0223,WH-08,Tampa,FL,1118,National
+RT-0224,WH-08,Orlando,FL,1172,National
+RT-0225,WH-08,Jacksonville,FL,1106,National
+RT-0226,WH-08,Charleston,SC,1194,National
+RT-0227,WH-08,Richmond,VA,1390,National
+RT-0228,WH-08,Pittsburgh,PA,1304,National
+RT-0229,WH-08,Cleveland,OH,1250,National
+RT-0230,WH-08,Buffalo,NY,1461,National
+RT-0231,WH-08,Hartford,CT,1779,National
+RT-0232,WH-08,Providence,RI,1856,National
+RT-0233,WH-08,Burlington,VT,1829,National
+RT-0234,WH-08,Manchester,NH,1883,National
+RT-0235,WH-08,Spokane,WA,1816,National
+RT-0236,WH-08,Reno,NV,1661,National
+RT-0237,WH-08,Tucson,AZ,1008,National
+RT-0238,WH-08,El Paso,TX,696,Regional
+RT-0239,WH-08,San Antonio,TX,308,Regional
+RT-0240,WH-08,Birmingham,AL,707,Regional
+RT-0241,WH-09,Las Vegas,NV,1495,National
+RT-0242,WH-09,Sacramento,CA,1959,National
+RT-0243,WH-09,Boise,ID,1820,National
+RT-0244,WH-09,Salt Lake City,UT,1463,National
+RT-0245,WH-09,Albuquerque,NM,919,National
+RT-0246,WH-09,Oklahoma City,OK,505,Regional
+RT-0247,WH-09,Kansas City,MO,789,Regional
+RT-0248,WH-09,Omaha,NE,970,National
+RT-0249,WH-09,Milwaukee,WI,1227,National
+RT-0250,WH-09,Indianapolis,IN,1056,National
+RT-0251,WH-09,Louisville,KY,980,National
+RT-0252,WH-09,New Orleans,LA,388,Regional
+RT-0253,WH-09,Tampa,FL,965,National
+RT-0254,WH-09,Orlando,FL,1034,National
+RT-0255,WH-09,Jacksonville,FL,1001,National
+RT-0256,WH-09,Charleston,SC,1140,National
+RT-0257,WH-09,Richmond,VA,1416,National
+RT-0258,WH-09,Pittsburgh,PA,1387,National
+RT-0259,WH-09,Cleveland,OH,1359,National
+RT-0260,WH-09,Buffalo,NY,1569,National
+RT-0261,WH-09,Hartford,CT,1844,National
+RT-0262,WH-09,Providence,RI,1918,National
+RT-0263,WH-09,Burlington,VT,1927,National
+RT-0264,WH-09,Manchester,NH,1958,National
+RT-0265,WH-09,Spokane,WA,2079,National
+RT-0266,WH-09,Reno,NV,1876,National
+RT-0267,WH-09,Tucson,AZ,1145,National
+RT-0268,WH-09,El Paso,TX,822,National
+RT-0269,WH-09,San Antonio,TX,231,Local
+RT-0270,WH-09,Birmingham,AL,691,Regional
+RT-0271,WH-10,Las Vegas,NV,1578,National
+RT-0272,WH-10,Sacramento,CA,1844,National
+RT-0273,WH-10,Boise,ID,1384,National
+RT-0274,WH-10,Salt Lake City,UT,1201,National
+RT-0275,WH-10,Albuquerque,NM,1198,National
+RT-0276,WH-10,Oklahoma City,OK,847,National
+RT-0277,WH-10,Kansas City,MO,502,Regional
+RT-0278,WH-10,Omaha,NE,354,Regional
+RT-0279,WH-10,Milwaukee,WI,364,Regional
+RT-0280,WH-10,Indianapolis,IN,623,Regional
+RT-0281,WH-10,Louisville,KY,738,Regional
+RT-0282,WH-10,New Orleans,LA,1284,National
+RT-0283,WH-10,Tampa,FL,1608,National
+RT-0284,WH-10,Orlando,FL,1597,National
+RT-0285,WH-10,Jacksonville,FL,1454,National
+RT-0286,WH-10,Charleston,SC,1347,National
+RT-0287,WH-10,Richmond,VA,1180,National
+RT-0288,WH-10,Pittsburgh,PA,905,National
+RT-0289,WH-10,Cleveland,OH,768,Regional
+RT-0290,WH-10,Buffalo,NY,890,National
+RT-0291,WH-10,Hartford,CT,1287,National
+RT-0292,WH-10,Providence,RI,1360,National
+RT-0293,WH-10,Burlington,VT,1199,National
+RT-0294,WH-10,Manchester,NH,1329,National
+RT-0295,WH-10,Spokane,WA,1419,National
+RT-0296,WH-10,Reno,NV,1710,National
+RT-0297,WH-10,Tucson,AZ,1580,National
+RT-0298,WH-10,El Paso,TX,1412,National
+RT-0299,WH-10,San Antonio,TX,1357,National
+RT-0300,WH-10,Birmingham,AL,1053,National
+RT-0301,WH-11,Las Vegas,NV,1856,National
+RT-0302,WH-11,Sacramento,CA,2183,National
+RT-0303,WH-11,Boise,ID,1766,National
+RT-0304,WH-11,Salt Lake City,UT,1534,National
+RT-0305,WH-11,Albuquerque,NM,1376,National
+RT-0306,WH-11,Oklahoma City,OK,845,National
+RT-0307,WH-11,Kansas City,MO,503,Regional
+RT-0308,WH-11,Omaha,NE,526,Regional
+RT-0309,WH-11,Milwaukee,WI,99,Local
+RT-0310,WH-11,Indianapolis,IN,201,Local
+RT-0311,WH-11,Louisville,KY,329,Regional
+RT-0312,WH-11,New Orleans,LA,1019,National
+RT-0313,WH-11,Tampa,FL,1227,National
+RT-0314,WH-11,Orlando,FL,1203,National
+RT-0315,WH-11,Jacksonville,FL,1054,National
+RT-0316,WH-11,Charleston,SC,924,National
+RT-0317,WH-11,Richmond,VA,755,Regional
+RT-0318,WH-11,Pittsburgh,PA,499,Regional
+RT-0319,WH-11,Cleveland,OH,375,Regional
+RT-0320,WH-11,Buffalo,NY,551,Regional
+RT-0321,WH-11,Hartford,CT,938,National
+RT-0322,WH-11,Providence,RI,1017,National
+RT-0323,WH-11,Burlington,VT,912,National
+RT-0324,WH-11,Manchester,NH,1009,National
+RT-0325,WH-11,Spokane,WA,1836,National
+RT-0326,WH-11,Reno,NV,2054,National
+RT-0327,WH-11,Tucson,AZ,1761,National
+RT-0328,WH-11,El Paso,TX,1526,National
+RT-0329,WH-11,San Antonio,TX,1284,National
+RT-0330,WH-11,Birmingham,AL,707,Regional
+RT-0331,WH-12,Las Vegas,NV,1678,National
+RT-0332,WH-12,Sacramento,CA,2051,National
+RT-0333,WH-12,Boise,ID,1696,National
+RT-0334,WH-12,Salt Lake City,UT,1415,National
+RT-0335,WH-12,Albuquerque,NM,1147,National
+RT-0336,WH-12,Oklahoma City,OK,559,Regional
+RT-0337,WH-12,Kansas City,MO,290,Regional
+RT-0338,WH-12,Omaha,NE,432,Regional
+RT-0339,WH-12,Milwaukee,WI,400,Regional
+RT-0340,WH-12,Indianapolis,IN,281,Regional
+RT-0341,WH-12,Louisville,KY,295,Regional
+RT-0342,WH-12,New Orleans,LA,731,Regional
+RT-0343,WH-12,Tampa,FL,1051,National
+RT-0344,WH-12,Orlando,FL,1051,National
+RT-0345,WH-12,Jacksonville,FL,916,National
+RT-0346,WH-12,Charleston,SC,858,National
+RT-0347,WH-12,Richmond,VA,851,National
+RT-0348,WH-12,Pittsburgh,PA,680,Regional
+RT-0349,WH-12,Cleveland,OH,599,Regional
+RT-0350,WH-12,Buffalo,NY,806,National
+RT-0351,WH-12,Hartford,CT,1157,National
+RT-0352,WH-12,Providence,RI,1236,National
+RT-0353,WH-12,Burlington,VT,1177,National
+RT-0354,WH-12,Manchester,NH,1248,National
+RT-0355,WH-12,Spokane,WA,1827,National
+RT-0356,WH-12,Reno,NV,1931,National
+RT-0357,WH-12,Tucson,AZ,1522,National
+RT-0358,WH-12,El Paso,TX,1260,National
+RT-0359,WH-12,San Antonio,TX,967,National
+RT-0360,WH-12,Birmingham,AL,489,Regional
+RT-0361,WH-13,Las Vegas,NV,1923,National
+RT-0362,WH-13,Sacramento,CA,2321,National
+RT-0363,WH-13,Boise,ID,1992,National
+RT-0364,WH-13,Salt Lake City,UT,1696,National
+RT-0365,WH-13,Albuquerque,NM,1362,National
+RT-0366,WH-13,Oklahoma City,OK,736,Regional
+RT-0367,WH-13,Kansas City,MO,576,Regional
+RT-0368,WH-13,Omaha,NE,739,Regional
+RT-0369,WH-13,Milwaukee,WI,584,Regional
+RT-0370,WH-13,Indianapolis,IN,307,Regional
+RT-0371,WH-13,Louisville,KY,189,Local
+RT-0372,WH-13,New Orleans,LA,573,Regional
+RT-0373,WH-13,Tampa,FL,758,Regional
+RT-0374,WH-13,Orlando,FL,749,Regional
+RT-0375,WH-13,Jacksonville,FL,610,Regional
+RT-0376,WH-13,Charleston,SC,555,Regional
+RT-0377,WH-13,Richmond,VA,641,Regional
+RT-0378,WH-13,Pittsburgh,PA,575,Regional
+RT-0379,WH-13,Cleveland,OH,560,Regional
+RT-0380,WH-13,Buffalo,NY,764,Regional
+RT-0381,WH-13,Hartford,CT,1037,National
+RT-0382,WH-13,Providence,RI,1112,National
+RT-0383,WH-13,Burlington,VT,1116,National
+RT-0384,WH-13,Manchester,NH,1148,National
+RT-0385,WH-13,Spokane,WA,2134,National
+RT-0386,WH-13,Reno,NV,2205,National
+RT-0387,WH-13,Tucson,AZ,1715,National
+RT-0388,WH-13,El Paso,TX,1424,National
+RT-0389,WH-13,San Antonio,TX,1004,National
+RT-0390,WH-13,Birmingham,AL,223,Local
+RT-0391,WH-14,Las Vegas,NV,2125,National
+RT-0392,WH-14,Sacramento,CA,2540,National
+RT-0393,WH-14,Boise,ID,2236,National
+RT-0394,WH-14,Salt Lake City,UT,1928,National
+RT-0395,WH-14,Albuquerque,NM,1549,National
+RT-0396,WH-14,Oklahoma City,OK,922,National
+RT-0397,WH-14,Kansas City,MO,825,National
+RT-0398,WH-14,Omaha,NE,997,National
+RT-0399,WH-14,Milwaukee,WI,817,National
+RT-0400,WH-14,Indianapolis,IN,521,Regional
+RT-0401,WH-14,Louisville,KY,391,Regional
+RT-0402,WH-14,New Orleans,LA,518,Regional
+RT-0403,WH-14,Tampa,FL,508,Regional
+RT-0404,WH-14,Orlando,FL,490,Regional
+RT-0405,WH-14,Jacksonville,FL,348,Regional
+RT-0406,WH-14,Charleston,SC,325,Regional
+RT-0407,WH-14,Richmond,VA,573,Regional
+RT-0408,WH-14,Pittsburgh,PA,636,Regional
+RT-0409,WH-14,Cleveland,OH,678,Regional
+RT-0410,WH-14,Buffalo,NY,852,National
+RT-0411,WH-14,Hartford,CT,1031,National
+RT-0412,WH-14,Providence,RI,1098,National
+RT-0413,WH-14,Burlington,VT,1160,National
+RT-0414,WH-14,Manchester,NH,1154,National
+RT-0415,WH-14,Spokane,WA,2389,National
+RT-0416,WH-14,Reno,NV,2429,National
+RT-0417,WH-14,Tucson,AZ,1879,National
+RT-0418,WH-14,El Paso,TX,1572,National
+RT-0419,WH-14,San Antonio,TX,1075,National
+RT-0420,WH-14,Birmingham,AL,171,Local
+RT-0421,WH-15,Las Vegas,NV,2657,National
+RT-0422,WH-15,Sacramento,CA,3108,National
+RT-0423,WH-15,Boise,ID,2881,National
+RT-0424,WH-15,Salt Lake City,UT,2547,National
+RT-0425,WH-15,Albuquerque,NM,2069,National
+RT-0426,WH-15,Oklahoma City,OK,1496,National
+RT-0427,WH-15,Kansas City,MO,1516,National
+RT-0428,WH-15,Omaha,NE,1706,National
+RT-0429,WH-15,Milwaukee,WI,1550,National
+RT-0430,WH-15,Indianapolis,IN,1253,National
+RT-0431,WH-15,Louisville,KY,1125,National
+RT-0432,WH-15,New Orleans,LA,816,National
+RT-0433,WH-15,Tampa,FL,251,Regional
+RT-0434,WH-15,Orlando,FL,250,Regional
+RT-0435,WH-15,Jacksonville,FL,400,Regional
+RT-0436,WH-15,Charleston,SC,592,Regional
+RT-0437,WH-15,Richmond,VA,1012,National
+RT-0438,WH-15,Pittsburgh,PA,1237,National
+RT-0439,WH-15,Cleveland,OH,1331,National
+RT-0440,WH-15,Buffalo,NY,1446,National
+RT-0441,WH-15,Hartford,CT,1447,National
+RT-0442,WH-15,Providence,RI,1485,National
+RT-0443,WH-15,Burlington,VT,1648,National
+RT-0444,WH-15,Manchester,NH,1573,National
+RT-0445,WH-15,Spokane,WA,3074,National
+RT-0446,WH-15,Reno,NV,3013,National
+RT-0447,WH-15,Tucson,AZ,2325,National
+RT-0448,WH-15,El Paso,TX,2002,National
+RT-0449,WH-15,San Antonio,TX,1400,National
+RT-0450,WH-15,Birmingham,AL,814,National
+RT-0451,WH-16,Las Vegas,NV,2337,National
+RT-0452,WH-16,Sacramento,CA,2732,National
+RT-0453,WH-16,Boise,ID,2388,National
+RT-0454,WH-16,Salt Lake City,UT,2103,National
+RT-0455,WH-16,Albuquerque,NM,1774,National
+RT-0456,WH-16,Oklahoma City,OK,1145,National
+RT-0457,WH-16,Kansas City,MO,978,National
+RT-0458,WH-16,Omaha,NE,1119,National
+RT-0459,WH-16,Milwaukee,WI,804,National
+RT-0460,WH-16,Indianapolis,IN,522,Regional
+RT-0461,WH-16,Louisville,KY,419,Regional
+RT-0462,WH-16,New Orleans,LA,791,Regional
+RT-0463,WH-16,Tampa,FL,624,Regional
+RT-0464,WH-16,Orlando,FL,565,Regional
+RT-0465,WH-16,Jacksonville,FL,417,Regional
+RT-0466,WH-16,Charleston,SC,216,Local
+RT-0467,WH-16,Richmond,VA,302,Regional
+RT-0468,WH-16,Pittsburgh,PA,443,Regional
+RT-0469,WH-16,Cleveland,OH,532,Regional
+RT-0470,WH-16,Buffalo,NY,658,Regional
+RT-0471,WH-16,Hartford,CT,770,Regional
+RT-0472,WH-16,Providence,RI,833,National
+RT-0473,WH-16,Burlington,VT,922,National
+RT-0474,WH-16,Manchester,NH,897,National
+RT-0475,WH-16,Spokane,WA,2508,National
+RT-0476,WH-16,Reno,NV,2615,National
+RT-0477,WH-16,Tucson,AZ,2119,National
+RT-0478,WH-16,El Paso,TX,1821,National
+RT-0479,WH-16,San Antonio,TX,1347,National
+RT-0480,WH-16,Birmingham,AL,439,Regional
+RT-0481,WH-17,Las Vegas,NV,2539,National
+RT-0482,WH-17,Sacramento,CA,2893,National
+RT-0483,WH-17,Boise,ID,2490,National
+RT-0484,WH-17,Salt Lake City,UT,2247,National
+RT-0485,WH-17,Albuquerque,NM,2011,National
+RT-0486,WH-17,Oklahoma City,OK,1402,National
+RT-0487,WH-17,Kansas City,MO,1147,National
+RT-0488,WH-17,Omaha,NE,1232,National
+RT-0489,WH-17,Milwaukee,WI,774,Regional
+RT-0490,WH-17,Indianapolis,IN,599,Regional
+RT-0491,WH-17,Louisville,KY,577,Regional
+RT-0492,WH-17,New Orleans,LA,1177,National
+RT-0493,WH-17,Tampa,FL,999,National
+RT-0494,WH-17,Orlando,FL,925,National
+RT-0495,WH-17,Jacksonville,FL,790,Regional
+RT-0496,WH-17,Charleston,SC,553,Regional
+RT-0497,WH-17,Richmond,VA,118,Local
+RT-0498,WH-17,Pittsburgh,PA,231,Local
+RT-0499,WH-17,Cleveland,OH,371,Regional
+RT-0500,WH-17,Buffalo,NY,355,Regional
+RT-0501,WH-17,Hartford,CT,370,Regional
+RT-0502,WH-17,Providence,RI,437,Regional
+RT-0503,WH-17,Burlington,VT,527,Regional
+RT-0504,WH-17,Manchester,NH,495,Regional
+RT-0505,WH-17,Spokane,WA,2554,National
+RT-0506,WH-17,Reno,NV,2767,National
+RT-0507,WH-17,Tucson,AZ,2380,National
+RT-0508,WH-17,El Paso,TX,2102,National
+RT-0509,WH-17,San Antonio,TX,1691,National
+RT-0510,WH-17,Birmingham,AL,804,National
+RT-0511,WH-18,Las Vegas,NV,2650,National
+RT-0512,WH-18,Sacramento,CA,2991,National
+RT-0513,WH-18,Boise,ID,2571,National
+RT-0514,WH-18,Salt Lake City,UT,2343,National
+RT-0515,WH-18,Albuquerque,NM,2133,National
+RT-0516,WH-18,Oklahoma City,OK,1533,National
+RT-0517,WH-18,Kansas City,MO,1262,National
+RT-0518,WH-18,Omaha,NE,1331,National
+RT-0519,WH-18,Milwaukee,WI,844,National
+RT-0520,WH-18,Indianapolis,IN,711,Regional
+RT-0521,WH-18,Louisville,KY,707,Regional
+RT-0522,WH-18,New Orleans,LA,1328,National
+RT-0523,WH-18,Tampa,FL,1132,National
+RT-0524,WH-18,Orlando,FL,1054,National
+RT-0525,WH-18,Jacksonville,FL,926,National
+RT-0526,WH-18,Charleston,SC,686,Regional
+RT-0527,WH-18,Richmond,VA,252,Regional
+RT-0528,WH-18,Pittsburgh,PA,314,Regional
+RT-0529,WH-18,Cleveland,OH,437,Regional
+RT-0530,WH-18,Buffalo,NY,341,Regional
+RT-0531,WH-18,Hartford,CT,220,Local
+RT-0532,WH-18,Providence,RI,286,Regional
+RT-0533,WH-18,Burlington,VT,400,Regional
+RT-0534,WH-18,Manchester,NH,347,Regional
+RT-0535,WH-18,Spokane,WA,2617,National
+RT-0536,WH-18,Reno,NV,2863,National
+RT-0537,WH-18,Tucson,AZ,2507,National
+RT-0538,WH-18,El Paso,TX,2235,National
+RT-0539,WH-18,San Antonio,TX,1836,National
+RT-0540,WH-18,Birmingham,AL,954,National
+RT-0541,WH-19,Las Vegas,NV,2718,National
+RT-0542,WH-19,Sacramento,CA,3050,National
+RT-0543,WH-19,Boise,ID,2619,National
+RT-0544,WH-19,Salt Lake City,UT,2401,National
+RT-0545,WH-19,Albuquerque,NM,2209,National
+RT-0546,WH-19,Oklahoma City,OK,1616,National
+RT-0547,WH-19,Kansas City,MO,1334,National
+RT-0548,WH-19,Omaha,NE,1392,National
+RT-0549,WH-19,Milwaukee,WI,893,National
+RT-0550,WH-19,Indianapolis,IN,785,Regional
+RT-0551,WH-19,Louisville,KY,792,Regional
+RT-0552,WH-19,New Orleans,LA,1425,National
+RT-0553,WH-19,Tampa,FL,1225,National
+RT-0554,WH-19,Orlando,FL,1146,National
+RT-0555,WH-19,Jacksonville,FL,1019,National
+RT-0556,WH-19,Charleston,SC,779,Regional
+RT-0557,WH-19,Richmond,VA,349,Regional
+RT-0558,WH-19,Pittsburgh,PA,384,Regional
+RT-0559,WH-19,Cleveland,OH,493,Regional
+RT-0560,WH-19,Buffalo,NY,357,Regional
+RT-0561,WH-19,Hartford,CT,123,Local
+RT-0562,WH-19,Providence,RI,189,Local
+RT-0563,WH-19,Burlington,VT,321,Regional
+RT-0564,WH-19,Manchester,NH,250,Regional
+RT-0565,WH-19,Spokane,WA,2652,National
+RT-0566,WH-19,Reno,NV,2920,National
+RT-0567,WH-19,Tucson,AZ,2585,National
+RT-0568,WH-19,El Paso,TX,2318,National
+RT-0569,WH-19,San Antonio,TX,1929,National
+RT-0570,WH-19,Birmingham,AL,1051,National
+RT-0571,WH-20,Las Vegas,NV,2891,National
+RT-0572,WH-20,Sacramento,CA,3202,National
+RT-0573,WH-20,Boise,ID,2751,National
+RT-0574,WH-20,Salt Lake City,UT,2554,National
+RT-0575,WH-20,Albuquerque,NM,2401,National
+RT-0576,WH-20,Oklahoma City,OK,1821,National
+RT-0577,WH-20,Kansas City,MO,1522,National
+RT-0578,WH-20,Omaha,NE,1560,National
+RT-0579,WH-20,Milwaukee,WI,1044,National
+RT-0580,WH-20,Indianapolis,IN,983,National
+RT-0581,WH-20,Louisville,KY,1005,National
+RT-0582,WH-20,New Orleans,LA,1657,National
+RT-0583,WH-20,Tampa,FL,1443,National
+RT-0584,WH-20,Orlando,FL,1361,National
+RT-0585,WH-20,Jacksonville,FL,1241,National
+RT-0586,WH-20,Charleston,SC,1001,National
+RT-0587,WH-20,Richmond,VA,578,Regional
+RT-0588,WH-20,Pittsburgh,PA,587,Regional
+RT-0589,WH-20,Cleveland,OH,670,Regional
+RT-0590,WH-20,Buffalo,NY,487,Regional
+RT-0591,WH-20,Hartford,CT,113,Local
+RT-0592,WH-20,Providence,RI,50,Local
+RT-0593,WH-20,Burlington,VT,222,Local
+RT-0594,WH-20,Manchester,NH,59,Local
+RT-0595,WH-20,Spokane,WA,2757,National
+RT-0596,WH-20,Reno,NV,3071,National
+RT-0597,WH-20,Tucson,AZ,2781,National
+RT-0598,WH-20,El Paso,TX,2523,National
+RT-0599,WH-20,San Antonio,TX,2153,National
+RT-0600,WH-20,Birmingham,AL,1282,National

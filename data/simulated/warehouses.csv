@@ -1,0 +1,21 @@
+warehouse_id,warehouse_name,city,state,latitude,longitude
+WH-01,Apex Seattle Distribution Center,Seattle,WA,47.6062,-122.3321
+WH-02,Apex Portland Distribution Center,Portland,OR,45.5152,-122.6784
+WH-03,Apex San Francisco Distribution Center,San Francisco,CA,37.7749,-122.4194
+WH-04,Apex Los Angeles Distribution Center,Los Angeles,CA,34.0522,-118.2437
+WH-05,Apex San Diego Distribution Center,San Diego,CA,32.7157,-117.1611
+WH-06,Apex Phoenix Distribution Center,Phoenix,AZ,33.4484,-112.074
+WH-07,Apex Denver Distribution Center,Denver,CO,39.7392,-104.9903
+WH-08,Apex Dallas Distribution Center,Dallas,TX,32.7767,-96.797
+WH-09,Apex Houston Distribution Center,Houston,TX,29.7604,-95.3698
+WH-10,Apex Minneapolis Distribution Center,Minneapolis,MN,44.9778,-93.265
+WH-11,Apex Chicago Distribution Center,Chicago,IL,41.8781,-87.6298
+WH-12,Apex St. Louis Distribution Center,St. Louis,MO,38.627,-90.1994
+WH-13,Apex Nashville Distribution Center,Nashville,TN,36.1627,-86.7816
+WH-14,Apex Atlanta Distribution Center,Atlanta,GA,33.749,-84.388
+WH-15,Apex Miami Distribution Center,Miami,FL,25.7617,-80.1918
+WH-16,Apex Charlotte Distribution Center,Charlotte,NC,35.2271,-80.8431
+WH-17,Apex Washington Distribution Center,Washington,DC,38.9072,-77.0369
+WH-18,Apex Philadelphia Distribution Center,Philadelphia,PA,39.9526,-75.1652
+WH-19,Apex New York Distribution Center,New York,NY,40.7128,-74.006
+WH-20,Apex Boston Distribution Center,Boston,MA,42.3601,-71.0589

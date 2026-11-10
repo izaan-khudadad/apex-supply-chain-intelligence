@@ -1,0 +1,101 @@
+supplier_id,supplier_name,supplier_region,lead_time_days,on_time_rate
+SUP-001,Northstar Components 01,West,24,0.91
+SUP-002,Pioneer Electronics 01,South,4,0.914
+SUP-003,Summit Devices 01,Central,6,0.988
+SUP-004,Blue Ridge Tech 01,Northeast,5,0.949
+SUP-005,Evergreen Supply Co. 01,West,4,0.966
+SUP-006,Sterling Micro Systems 01,Central,7,0.966
+SUP-007,Cobalt Manufacturing 01,Central,5,0.972
+SUP-008,Atlas Parts Group 01,Central,21,0.889
+SUP-009,Redwood Technology 01,Central,13,0.965
+SUP-010,Meridian Electronics 01,West,11,0.976
+SUP-011,Granite Peak Components 01,Central,7,0.933
+SUP-012,Coastal Tech Supply 01,Central,6,0.949
+SUP-013,Ironwood Devices 01,West,7,0.862
+SUP-014,Crescent Circuitry 01,Central,21,0.904
+SUP-015,Frontier Digital 01,Central,11,0.867
+SUP-016,Keystone Components 01,Northeast,19,0.875
+SUP-017,Brightline Manufacturing 01,West,18,0.921
+SUP-018,Orion Parts Network 01,South,19,0.94
+SUP-019,Prairie State Electronics 01,Northeast,19,0.89
+SUP-020,Vertex Supply Group 01,West,26,0.966
+SUP-021,Northstar Components 02,South,17,0.947
+SUP-022,Pioneer Electronics 02,West,4,0.995
+SUP-023,Summit Devices 02,Northeast,16,0.953
+SUP-024,Blue Ridge Tech 02,Northeast,25,0.983
+SUP-025,Evergreen Supply Co. 02,West,5,0.903
+SUP-026,Sterling Micro Systems 02,Central,5,0.877
+SUP-027,Cobalt Manufacturing 02,South,15,0.994
+SUP-028,Atlas Parts Group 02,South,17,0.928
+SUP-029,Redwood Technology 02,Northeast,6,0.967
+SUP-030,Meridian Electronics 02,West,23,0.948
+SUP-031,Granite Peak Components 02,Central,16,0.921
+SUP-032,Coastal Tech Supply 02,Central,16,0.906
+SUP-033,Ironwood Devices 02,Northeast,15,0.916
+SUP-034,Crescent Circuitry 02,West,13,0.918
+SUP-035,Frontier Digital 02,South,14,0.989
+SUP-036,Keystone Components 02,Northeast,5,0.872
+SUP-037,Brightline Manufacturing 02,West,5,0.918
+SUP-038,Orion Parts Network 02,South,28,0.878
+SUP-039,Prairie State Electronics 02,West,21,0.989
+SUP-040,Vertex Supply Group 02,South,24,0.877
+SUP-041,Northstar Components 03,South,24,0.987
+SUP-042,Pioneer Electronics 03,Northeast,26,0.867
+SUP-043,Summit Devices 03,South,22,0.902
+SUP-044,Blue Ridge Tech 03,West,21,0.929
+SUP-045,Evergreen Supply Co. 03,Central,24,0.925
+SUP-046,Sterling Micro Systems 03,West,14,0.974
+SUP-047,Cobalt Manufacturing 03,South,6,0.963
+SUP-048,Atlas Parts Group 03,Central,28,0.918
+SUP-049,Redwood Technology 03,West,22,0.985
+SUP-050,Meridian Electronics 03,South,3,0.884
+SUP-051,Granite Peak Components 03,South,13,0.907
+SUP-052,Coastal Tech Supply 03,Central,7,0.936
+SUP-053,Ironwood Devices 03,Northeast,5,0.879
+SUP-054,Crescent Circuitry 03,West,5,0.961
+SUP-055,Frontier Digital 03,Central,15,0.917
+SUP-056,Keystone Components 03,South,8,0.91
+SUP-057,Brightline Manufacturing 03,South,27,0.987
+SUP-058,Orion Parts Network 03,West,4,0.881
+SUP-059,Prairie State Electronics 03,West,24,0.871
+SUP-060,Vertex Supply Group 03,Northeast,24,0.917
+SUP-061,Northstar Components 04,Northeast,16,0.897
+SUP-062,Pioneer Electronics 04,West,14,0.918
+SUP-063,Summit Devices 04,South,24,0.952
+SUP-064,Blue Ridge Tech 04,Northeast,19,0.95
+SUP-065,Evergreen Supply Co. 04,West,10,0.913
+SUP-066,Sterling Micro Systems 04,West,3,0.888
+SUP-067,Cobalt Manufacturing 04,Central,27,0.879
+SUP-068,Atlas Parts Group 04,South,12,0.904
+SUP-069,Redwood Technology 04,West,18,0.961
+SUP-070,Meridian Electronics 04,Central,7,0.911
+SUP-071,Granite Peak Components 04,Central,19,0.935
+SUP-072,Coastal Tech Supply 04,South,5,0.914
+SUP-073,Ironwood Devices 04,West,16,0.863
+SUP-074,Crescent Circuitry 04,West,13,0.938
+SUP-075,Frontier Digital 04,Northeast,25,0.946
+SUP-076,Keystone Components 04,South,6,0.915
+SUP-077,Brightline Manufacturing 04,South,8,0.968
+SUP-078,Orion Parts Network 04,Northeast,25,0.984
+SUP-079,Prairie State Electronics 04,West,16,0.974
+SUP-080,Vertex Supply Group 04,Central,16,0.939
+SUP-081,Northstar Components 05,West,15,0.978
+SUP-082,Pioneer Electronics 05,South,10,0.905
+SUP-083,Summit Devices 05,Central,5,0.929
+SUP-084,Blue Ridge Tech 05,West,19,0.929
+SUP-085,Evergreen Supply Co. 05,South,14,0.958
+SUP-086,Sterling Micro Systems 05,Central,10,0.874
+SUP-087,Cobalt Manufacturing 05,South,9,0.883
+SUP-088,Atlas Parts Group 05,Central,27,0.962
+SUP-089,Redwood Technology 05,West,8,0.988
+SUP-090,Meridian Electronics 05,Northeast,17,0.962
+SUP-091,Granite Peak Components 05,Northeast,24,0.985
+SUP-092,Coastal Tech Supply 05,South,23,0.903
+SUP-093,Ironwood Devices 05,Northeast,5,0.923
+SUP-094,Crescent Circuitry 05,South,28,0.897
+SUP-095,Frontier Digital 05,West,14,0.928
+SUP-096,Keystone Components 05,South,17,0.921
+SUP-097,Brightline Manufacturing 05,West,14,0.972
+SUP-098,Orion Parts Network 05,West,23,0.977
+SUP-099,Prairie State Electronics 05,West,22,0.94
+SUP-100,Vertex Supply Group 05,Northeast,17,0.938
