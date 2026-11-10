@@ -10,24 +10,37 @@ from sqlalchemy import URL, create_engine
 
 PROJECT_DIR = Path(__file__).resolve().parent
 MYSQL_SECRETS_PATH = PROJECT_DIR / ".streamlit" / "secrets.toml"
+REQUIRED_MYSQL_SETTINGS = ("host", "port", "database", "username", "password")
 
 
 def has_mysql_secrets() -> bool:
-    return MYSQL_SECRETS_PATH.is_file()
+    """Return True only when a complete MySQL configuration is available."""
+    if not MYSQL_SECRETS_PATH.is_file():
+        return False
+
+    try:
+        with MYSQL_SECRETS_PATH.open("rb") as secrets_file:
+            settings = tomllib.load(secrets_file).get("mysql", {})
+    except (OSError, tomllib.TOMLDecodeError):
+        return False
+
+    return all(settings.get(key) for key in REQUIRED_MYSQL_SETTINGS)
 
 
 def load_mysql_settings() -> dict:
-    if not has_mysql_secrets():
+    if not MYSQL_SECRETS_PATH.is_file():
         raise FileNotFoundError(
             f"MySQL settings not found at {MYSQL_SECRETS_PATH}. "
             "Copy .streamlit/secrets.toml.example to .streamlit/secrets.toml and fill it in."
         )
+
     with MYSQL_SECRETS_PATH.open("rb") as secrets_file:
         settings = tomllib.load(secrets_file).get("mysql", {})
-    required = ("host", "port", "database", "username", "password")
-    missing = [key for key in required if not settings.get(key)]
+
+    missing = [key for key in REQUIRED_MYSQL_SETTINGS if not settings.get(key)]
     if missing:
         raise ValueError(f"Missing MySQL settings in secrets.toml: {', '.join(missing)}")
+
     return settings
 
 
